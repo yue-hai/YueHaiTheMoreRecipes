@@ -1,0 +1,6 @@
+displayName = 月海的更多合成方式与商品
+author = 月海
+version = 0.1
+
+hideCode=true
+hideResources=true
